@@ -22,9 +22,9 @@
 
 👤 **Ridwan Diallo**
 
-- GitHub: [@githubridwan](https://github.com/ridwanediallo)
-- Twitter: [@twitterridwan](https://twitter.com/RidwaneD)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ridwan-diallo-9a1634193)
+- GitHub: [@ridwan](https://github.com/ridwanediallo)
+- Twitter: [@ridwan](https://twitter.com/RidwaneD)
+- LinkedIn: [ridwan](https://www.linkedin.com/in/ridwan-diallo-9a1634193)
 
 
 ## 🤝 Contributing
